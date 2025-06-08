@@ -1,2 +1,3 @@
-#Competitive Position Analysis of Maybank Syariah in Indonesia’s Islamic Banking Industry #
+# Competitive Position Analysis of Maybank Syariah in Indonesia’s Islamic Banking Industry
+
 This repository contains a comprehensive analysis of Maybank Syariah's competitive position within Indonesia’s Islamic banking industry, covering the period from January 2024 to April 2025. The study combines both quantitative and qualitative approaches, examining financial performance, product offerings, market segmentation of Muslim consumers, and sentiment analysis using Twitter data. The main objective is to assess Maybank Syariah’s strengths and weaknesses compared to leading competitors such as BSI, Bank Muamalat, and Jago Syariah, and to provide data-driven strategic recommendations. The project utilizes data science tools including Python, NLTK, Sastrawi, WordCloud, and SNScrape to ensure accurate and evidence-based insights.
